@@ -10,4 +10,3 @@ authRouter.post("/register", register);
 export default authRouter;
 
 
-//hello testing
